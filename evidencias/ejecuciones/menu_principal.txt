@@ -1,0 +1,15 @@
+--- NUEVO SOLIDO DE REVOLUCION ---
+Nombre del ejercicio: original
+Funcion del radio exterior: sqrt(25-x**2)
+Funcion del radio interior: (x+25)/7
+Limite inferior: -4
+Limite superior: 3
+
+----- RESULTADO DEL SOLIDO -----
+Ejercicio: original
+Radio exterior: sqrt(25 - x**2)
+Radio interior: x/7 + 25/7
+Integral resuelta: 58.3333333333333
+Volumen exacto: 58.3333333333333*pi
+Volumen aproximado: 183.25957
+--------------------------------

@@ -1,0 +1,17 @@
+Caso 1. Ejercicio original
+
+Entradas:
+
+Radio exterior: sqrt(25-x**2)
+
+Radio interior: (x+25)/7
+
+Límite inferior: -4
+
+Límite superior: 3
+
+Resultado esperado:
+
+V = 175*pi/3
+
+Aproximación: 183.259571
